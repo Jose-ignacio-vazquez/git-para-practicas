@@ -1,4 +1,4 @@
-# Práctica de Git
+# Práctica de Git para el Máster
 
 Esto es una práctica de Git.
 
@@ -10,4 +10,7 @@ Esto es una práctica de Git.
 Es todo.
 
 <http://escuela.it>
+
+En markdown el simbolo almohadilla indica titulo y < > crea un enlace.
+
 
