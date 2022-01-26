@@ -11,6 +11,6 @@ Es todo.
 
 <http://escuela.it>
 
-En markdown el simbolo almohadilla indica titulo y < > crea un enlace.
+En markdown el simbolo almohadilla crea un titulo y < > crea un enlace.
 
 
